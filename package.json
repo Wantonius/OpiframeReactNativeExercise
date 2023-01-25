@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for react native exercise",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node server"
+  },
+  "keywords": [
+    "backend",
+    "express",
+    "node"
+  ],
+  "author": "erno",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
